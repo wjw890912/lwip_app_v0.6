@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Administrator\Desktop\git\Net_V0.6\Lwip1.4.1+efls ByWang\SDK\lwip_gnu.uvproj
+Project File Date:  06/25/2016
+
+<h2>Output:</h2>
+Build target 'lwip+efsl+ds18b20'
+linking...
+Program Size: Code=58576 RO-data=28256 RW-data=3784 ZI-data=55624  
+FromELF: creating hex file...
+".\obj\lwip_gnu.axf" - 0 Error(s), 0 Warning(s).
